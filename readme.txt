@@ -10,3 +10,8 @@ hello world!
 
 
 ¼Óµã
+
+
+checkout master
+
+to do rebase
